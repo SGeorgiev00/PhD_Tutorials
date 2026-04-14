@@ -1,4 +1,7 @@
 04_GNNs_GDL/.vscode/
-04_GNNs_GDL/data/
+04_GNNs_GDL/data/train_md17
+04_GNNs_GDL/data/test_md17
+04_GNNs_GDL/data/brk_chemprop
 04_GNNs_GDL/GNNs_GDL.pptx
+04_GNNs_GDL/test.ipynb
 .vscode/
